@@ -1,11 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
-  * main - Entry point
+  * main - printf if number is positive ,zero or negative
   * Discription : positive ,negative,zero
-  * return : always (0)
+  *
+  * return : always success
   */
+
 int main(void)
 {
 	int n;
