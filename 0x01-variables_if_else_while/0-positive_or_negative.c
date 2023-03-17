@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *main - Entry point
- * description : 'check numbers'
- * Return : always 0
- */
+  * main - Entry point
+  * Discription : positive ,negative,zero
+  * return : always (0)
+  */
 int main(void)
 {
 	int n;
